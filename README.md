@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ranjzz
-- 👀 I’m interested in developing 
+- 👋 Hi, I’m Ranjitha
+- 👀 I’m interested in developing programs
 - 🌱 I’m currently learning coding 
 
 <!---
